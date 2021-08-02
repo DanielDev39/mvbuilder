@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MVBuilder\\": "MVBuilder/",
+            "User\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.9"
+    }
+}
